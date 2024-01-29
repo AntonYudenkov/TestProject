@@ -1,0 +1,15 @@
+D:\Source\TestProject\TestProject\TestProject\bin\Debug\TestProject.exe.config
+D:\Source\TestProject\TestProject\TestProject\bin\Debug\TestProject.exe
+D:\Source\TestProject\TestProject\TestProject\bin\Debug\TestProject.pdb
+D:\Source\TestProject\TestProject\TestProject\obj\Debug\TestProject.csproj.AssemblyReference.cache
+D:\Source\TestProject\TestProject\TestProject\obj\Debug\TestProject.Form1.resources
+D:\Source\TestProject\TestProject\TestProject\obj\Debug\TestProject.Properties.Resources.resources
+D:\Source\TestProject\TestProject\TestProject\obj\Debug\TestProject.csproj.GenerateResource.cache
+D:\Source\TestProject\TestProject\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+D:\Source\TestProject\TestProject\TestProject\obj\Debug\TestProject.exe
+D:\Source\TestProject\TestProject\TestProject\obj\Debug\TestProject.pdb
+D:\Source\TestProject\TestProject\TestProject\bin\Debug\BL.dll
+D:\Source\TestProject\TestProject\TestProject\bin\Debug\Newtonsoft.Json.dll
+D:\Source\TestProject\TestProject\TestProject\bin\Debug\BL.pdb
+D:\Source\TestProject\TestProject\TestProject\bin\Debug\Newtonsoft.Json.xml
+D:\Source\TestProject\TestProject\TestProject\obj\Debug\TestProject.csproj.CopyComplete

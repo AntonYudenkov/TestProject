@@ -1,0 +1,11 @@
+D:\Source\TestProject\TestProject\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+D:\Source\TestProject\TestProject\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\Source\TestProject\TestProject\BL\bin\Debug\BL.dll
+D:\Source\TestProject\TestProject\BL\bin\Debug\BL.pdb
+D:\Source\TestProject\TestProject\BL\bin\Debug\Newtonsoft.Json.dll
+D:\Source\TestProject\TestProject\BL\bin\Debug\System.ValueTuple.dll
+D:\Source\TestProject\TestProject\BL\bin\Debug\Newtonsoft.Json.xml
+D:\Source\TestProject\TestProject\BL\bin\Debug\System.ValueTuple.xml
+D:\Source\TestProject\TestProject\BL\obj\Debug\BL.csproj.CopyComplete
+D:\Source\TestProject\TestProject\BL\obj\Debug\BL.dll
+D:\Source\TestProject\TestProject\BL\obj\Debug\BL.pdb
